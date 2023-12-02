@@ -1,3 +1,6 @@
+![Python Version](https://img.shields.io/badge/python-3.11-blue)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
+
 # Exercism Python Solutions
 
 Este repositório contém as soluções para os problemas de Python do site Exercism. Cada problema está organizado em uma pasta correspondente ao seu nome.
